@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "telegram-subscription-bot"
+version = "1.0.0"
+description = "Telegram bot for subscription management"
+authors = ["Your Name <your@email.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+aiogram = "^3.10"
+python-dotenv = "^1.0"
+
+[tool.poetry.group.dev.dependencies]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
