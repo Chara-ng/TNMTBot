@@ -17,7 +17,6 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder
 
 # Настройки
-BOT_TOKEN = "8192833881:AAE776v47HR-09Sfcszu0HEktAlDFI_3GoU"
 OWNER_ID = 8100863185
 USERS_FILE = "users.json"
 CONTENT_FILE = "content.json"
